@@ -1,0 +1,17 @@
+Assuming that OCaml is already installed, the following packages would come with it:
+- oUnit (https://github.com/gildor478/ounit/releases/download/v2.2.2/ounit-v2.2.2.tbz)
+- ANSITerminal (https://github.com/Chris00/ANSITerminal/releases/download/0.8.2/ANSITerminal-0.8.2.tbz)
+- ocamlbuild (https://github.com/ocaml/ocamlbuild/archive/0.14.0.tar.gz)
+All of these packages were used for past assignments.
+
+Use make run to start our text editor.
+
+We also have the following make commands:
+- make run
+- make build
+- make test
+- make zip
+- make docs
+- make docs-public
+- make docs-private
+- make clean
