@@ -1,4 +1,4 @@
-# Nano-Like Text Editor in OCaml
+# Nano-Like-Text-Editor-OCaml
 ## Sandy Jiang, Terryn Jung, Yaoyao Ma
 We have implemented a text editor that has similar functionalities to Nano. There are search and replacing a text, cutting out an entire line, deleting text, inserting text, etc. We also implemented functions that save and duplicate files, deleting the file and renaming the file as well. 
 
